@@ -8,6 +8,7 @@
 import Foundation
 import Combine
 
+// - -- - - network calls
 enum Endpoint: String {
     case flights
     case details
